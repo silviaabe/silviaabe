@@ -1,18 +1,18 @@
-# 👩‍💻 Silvia Abe Buzatto
+# 👩‍💻 Silvia Abe
 
 **`Desenvolvedora Front-End`**
 
-Meu nome é Silvia Abe Buzatto, tenho 33 anos e sou natural de Maringá-PR, mas moro em Itararé-SP. Sou formada em Engenharia Química pela Universidade Estadual de Maringá (UEM) e estou atualmente aprendendo Tecnologia de Informação focado em Engenharia Front-End pela EBAC. Estou cada dia mais apaixonada pelo universo de tecnologia, inteligência artificial e aplicativos móveis, e espero poder contribuir com meus conhecimentos nessa área.
+Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em Itararé-SP. Sou formada em Engenharia Química pela Universidade Estadual de Maringá (UEM) e estou atualmente aprendendo Tecnologia de Informação focado em Engenharia Front-End pela EBAC. Estou cada dia mais apaixonada pelo universo de tecnologia, inteligência artificial e aplicativos móveis, e espero poder contribuir com meus conhecimentos nessa área.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/silvia-abe/">
-        <img alt="Linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/linkedin-8A2BE2?color=%23E05D44&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-    <a href="silviaabebuzatto@gmail.com">
-        <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/email-8A2BE2?color=%23E1AD0E&logo=email&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+        <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/linkedin-8A2BE2?color=%23E05D44&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <a href="mailto:silviaabebuzatto@gmail.com">
+        <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/email-8A2BE2?color=%23E1AD0E&logo=email&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+    <a href="https://github.com/silviaabe">
+        <img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/follow me-8A2BE2?color=55960c&style=for-the-badge&labelColor=488207&logo=github&logoColor=white"/></a>
     <a href="#">
-        <img alt="DDD" title="DDD" src="https://custom-icon-badges.demolab.com/badge/+55/brasil-8A2BE2?color=55960c&style=for-the-badge&labelColor=488207&logo=phone&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Localização" title="Localização" src="https://custom-icon-badges.demolab.com/badge/itarare/SP-8A2BE2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=location&logoColor=white"/></a>
+        <img alt="Localização" src="https://custom-icon-badges.demolab.com/badge/itarare/SP, Brasil-8A2BE2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=location&logoColor=white"/></a>
 </p>
 
 ---
