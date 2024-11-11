@@ -219,7 +219,7 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
         />
       </a>
       <br>
-      <span style="color:black;">Projeto EBAC Motors</span>
+      <span style="color:black;">Projeto Automóveis</span>
     </td>
   </tr>
 </table>
