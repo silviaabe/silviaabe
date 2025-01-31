@@ -183,6 +183,8 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
       <br>
       <span style="color:black;">Projeto Prime Video</span>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://clone-disneyplus-psi-sable.vercel.app/">
         <img 
@@ -195,8 +197,6 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
       <br>
       <span style="color:black;">Projeto Disney Plus</span>
     </td>
-  </tr>
-    <tr>
     <td align="center">
       <a href="https://chocolateria-bootstrap.vercel.app/">
         <img 
