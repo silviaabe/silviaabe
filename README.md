@@ -160,6 +160,18 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
       <span style="color:black;">Projeto Spotify</span>
     </td>
     <td align="center">
+      <a href="https://netflix-clone-nine-eta-43.vercel.app/">
+        <img 
+          title="Site Netflix" 
+          alt="GitHub Stats" 
+          width="250" 
+          src="https://github.com/user-attachments/assets/2ff6feb0-7e81-40d9-b60c-4d6a3505a0e5" 
+        />
+      </a>
+      <br>
+      <span style="color:black;">Projeto Netflix</span>
+    </td>
+    <td align="center">
       <a href="https://site-eplay-klfkvdwy5-silvia-abes-projects.vercel.app/">
         <img 
           title="Site Eplay" 
@@ -171,6 +183,8 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
       <br>
       <span style="color:black;">Projeto Eplay</span>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://clone-primevideo--phi.vercel.app/">
         <img 
@@ -183,8 +197,6 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
       <br>
       <span style="color:black;">Projeto Prime Video</span>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://clone-disneyplus-psi-sable.vercel.app/">
         <img 
@@ -208,18 +220,6 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
       </a>
       <br>
       <span style="color:black;">Projeto Chocolateria</span>
-    </td>
-    <td align="center">
-      <a href="https://site-papelaria-pi.vercel.app/">
-        <img 
-          title="Site Papelaria" 
-          alt="GitHub Stats" 
-          width="250" 
-          src="https://github.com/user-attachments/assets/32e47311-e2df-4192-b91f-9f60e248963c" 
-        />
-      </a>
-      <br>
-      <span style="color:black;">Projeto Papelaria</span>
     </td>
   </tr>
 </table>
