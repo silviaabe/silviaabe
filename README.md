@@ -148,6 +148,18 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
 <table>
   <tr>
     <td align="center">
+      <a href="https://spotify-alura-brown.vercel.app/">
+        <img 
+          title="Site Spotify" 
+          alt="GitHub Stats" 
+          width="250" 
+          src="https://github.com/user-attachments/assets/4254be6d-c1a1-4506-9c9a-2707f22343dd" 
+        />
+      </a>
+      <br>
+      <span style="color:black;">Projeto Spotify</span>
+    </td>
+    <td align="center">
       <a href="https://site-eplay-klfkvdwy5-silvia-abes-projects.vercel.app/">
         <img 
           title="Site Eplay" 
@@ -208,18 +220,6 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
       </a>
       <br>
       <span style="color:black;">Projeto Papelaria</span>
-    </td>
-    <td align="center">
-      <a href="https://jquery-automoveis.vercel.app/">
-        <img 
-          title="Site EBAC Motors" 
-          alt="GitHub Stats" 
-          width="250" 
-          src="https://github.com/user-attachments/assets/3e825ed0-09fe-4fe4-be45-8d70b830d034" 
-        />
-      </a>
-      <br>
-      <span style="color:black;">Projeto Automóveis</span>
     </td>
   </tr>
 </table>
