@@ -160,7 +160,7 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
       <span style="color:black;">Projeto Spotify</span>
     </td>
     <td align="center">
-      <a href="https://netflix-clone-nine-eta-43.vercel.app/">
+      <a href="https://netflix-clone-21s3nsmri-silvia-abes-projects.vercel.app/">
         <img 
           title="Site Netflix" 
           alt="GitHub Stats" 
