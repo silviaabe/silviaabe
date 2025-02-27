@@ -139,6 +139,30 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
+/>
 
 <br />
 <br />
@@ -147,6 +171,18 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
 
 <table>
   <tr>
+    <td align="center">
+      <a href="https://lacreisaude-one.vercel.app/">
+        <img 
+          title="Site Lacrei Saúde" 
+          alt="GitHub Stats" 
+          width="250" 
+          src="https://github.com/user-attachments/assets/609710f6-61f5-40fc-8017-f4eb49e86231" 
+        />
+      </a>
+      <br>
+      <span style="color:black;">Projeto Lacrei Saúde</span>
+    </td>
     <td align="center">
       <a href="https://spotify-alura-brown.vercel.app/">
         <img 
@@ -159,6 +195,20 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
       <br>
       <span style="color:black;">Projeto Spotify</span>
     </td>
+    <td align="center">
+      <a href="https://chocolateria-bootstrap.vercel.app/">
+        <img 
+          title="Site Chocolateria" 
+          alt="GitHub Stats" 
+          width="250" 
+          src="https://github.com/user-attachments/assets/c361019a-0ad3-43a9-95d4-31fa8296d470" 
+        />
+      </a>
+      <br>
+      <span style="color:black;">Projeto Chocolateria</span>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://netflix-clone-21s3nsmri-silvia-abes-projects.vercel.app/">
         <img 
@@ -183,20 +233,6 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
       <br>
       <span style="color:black;">Projeto Eplay</span>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://clone-primevideo--phi.vercel.app/">
-        <img 
-          title="Site Prime Video" 
-          alt="GitHub Stats" 
-          width="250" 
-          src="https://github.com/user-attachments/assets/1a7f828a-d444-443e-950e-961affda1a7a" 
-        />
-      </a>
-      <br>
-      <span style="color:black;">Projeto Prime Video</span>
-    </td>
     <td align="center">
       <a href="https://clone-disneyplus-psi-sable.vercel.app/">
         <img 
@@ -208,19 +244,7 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
       </a>
       <br>
       <span style="color:black;">Projeto Disney Plus</span>
-    </td>
-    <td align="center">
-      <a href="https://chocolateria-bootstrap.vercel.app/">
-        <img 
-          title="Site Chocolateria" 
-          alt="GitHub Stats" 
-          width="250" 
-          src="https://github.com/user-attachments/assets/c361019a-0ad3-43a9-95d4-31fa8296d470" 
-        />
-      </a>
-      <br>
-      <span style="color:black;">Projeto Chocolateria</span>
-    </td>
+    </td>  
   </tr>
 </table>
 
