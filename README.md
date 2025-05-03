@@ -1,8 +1,13 @@
 # 👩‍💻 Silvia Abe
 
-**`Desenvolvedora Front-End`**
+### ***Desenvolvedora Front-End***
 
-Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em Itararé-SP. Sou formada em Engenharia Química pela Universidade Estadual de Maringá (UEM) e estou atualmente aprendendo Tecnologia de Informação focado em Engenharia Front-End pela EBAC. Estou cada dia mais apaixonada pelo universo de tecnologia, inteligência artificial e aplicativos móveis, e espero poder contribuir com meus conhecimentos nessa área.
+Formada em desenvolvimento de Software Front-End pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduada em Engenharia Química pela UEM (Universidade Estadual de Maringá). Profissional com perfil proativo. Possuo experiência em elaboração de sites completos – responsivos e acessíveis, utilizando React, Next, TypeScript, JavaScript, HTML, CSS, e outras ferramentas.
+
+●	Habilidades em: React, React Native, Next.js, TypeScript, HTML, CSS, JavaScript, Desenvolvimento de Interfaces, Desenvolvimento Web; <br>
+●	Conhecimentos em: VueJS, Tailwind, Angular, NodeJS, Bootstrap, SASS, LESS, Gulp, Grunt, JQuery; <br>
+●	Noções de: Cypress, Inteligência Artificial; <br>
+<br>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/silvia-abe/">
@@ -12,7 +17,7 @@ Meu nome é Silvia Abe, tenho 33 anos e sou natural de Maringá-PR, mas moro em 
     <a href="https://github.com/silviaabe">
         <img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/follow me-8A2BE2?color=55960c&style=for-the-badge&labelColor=488207&logo=github&logoColor=white"/></a>
     <a href="#">
-        <img alt="Localização" src="https://custom-icon-badges.demolab.com/badge/itarare/SP, Brasil-8A2BE2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=location&logoColor=white"/></a>
+        <img alt="Localização" src="https://custom-icon-badges.demolab.com/badge/São Paulo, Brasil-8A2BE2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=location&logoColor=white"/></a>
 </p>
 
 ---
